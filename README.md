@@ -1,4 +1,4 @@
-#Nuget DSC Module
+# Nuget DSC Module
 
 The Nuget DSC module exists to provide an easy to use mechanism for creating, using, and consuming Nuget packages on Windows Servers.
 
